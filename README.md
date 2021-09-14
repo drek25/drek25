@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on html,css,js
+- 🌱 I’m currently learning web designing
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with python
+- 🤔 I’m looking for help with web designing/develpment
 - 📫 How to reach me: https://www.linkedin.com/in/drek25
 - 😄 Pronouns: Akash
