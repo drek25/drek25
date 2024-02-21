@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on html,css,js
+- 🔭 I’m currently working on frontend developing
 - 🌱 I’m currently learning web designing
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with web designing/develpment
